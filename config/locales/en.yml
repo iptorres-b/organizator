@@ -1,0 +1,16 @@
+---
+en:
+  activerecord:
+    models:
+      categories:
+        one: Categoría
+        others: Categorías
+  categories:
+    form:
+      description: Descripción
+      name: Name
+    new_categorie: Nueva Categoría
+    new_category: Nueva Categoría
+  common:
+    back: Atrás
+  hello: Hello world
